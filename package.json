@@ -21,6 +21,7 @@
   },
   "homepage": "https://github.com/haydest/liri_app#readme",
   "dependencies": {
+    "axios": "^0.18.0",
     "moment": "^2.22.2",
     "node-spotify-api": "^1.0.7",
     "request": "^2.88.0"
